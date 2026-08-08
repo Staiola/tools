@@ -7,9 +7,10 @@ Project pages: [jesperh.cv/apps](https://jesperh.cv/apps/)
 
 ## ExpressionGate
 
-A macOS Audio Unit by Dwan Audio. It follows the input envelope and uses three
-draggable thresholds, LOW, MID and HIGH, to trigger different effect chains.
-Play softly for one sound, harder for another.
+A macOS audio plugin you control by how loud you play. Quiet playing gives you
+one set of effects, playing harder gives you another, and digging in gives you
+a third. You set the three volume levels yourself and pick what each one does,
+so the sound changes without you touching a pedal.
 
 - **Download:** [ExpressionGate 1.0.0](https://github.com/Staiola/tools/releases/latest)
 - **Formats:** Audio Unit (aufx) and Standalone app
