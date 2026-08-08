@@ -12,7 +12,7 @@ one set of effects, playing harder gives you another, and digging in gives you
 a third. You set the three volume levels yourself and pick what each one does,
 so the sound changes without you touching a pedal.
 
-- **Download:** [ExpressionGate 1.0.0](https://github.com/Staiola/tools/releases/latest)
+- **Download:** [ExpressionGate 1.0.1](https://github.com/Staiola/tools/releases/latest)
 - **Formats:** Audio Unit (aufx) and Standalone app
 - **Requires:** macOS 11 or newer
 - **Page:** [jesperh.cv/apps/expressiongate.html](https://jesperh.cv/apps/expressiongate.html)
