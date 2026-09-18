@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Kipowi</title>
+        <item>
+            <title>0.5.1</title>
+            <pubDate>Fri, 18 Sep 2026 16:39:32 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kipowi 0.5.1</h2>
+<ul>
+<li>Check for Updates is now available in the Kipowi menu.</li>
+<li>Choose whether to check automatically in Settings → Updates.</li>
+<li>See what changed before choosing to download and install an update.</li>
+<li>Update downloads and the update feed are cryptographically verified.</li>
+</ul>
+<p>Includes precise frame stepping, the stable frame counter, rotation and flips, and multiple selections from Kipowi 0.5.0.</p>
+]]></description>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.1/Kipowi-0.5.1.dmg" length="69302982" type="application/octet-stream" sparkle:edSignature="oz2NMLqxO+7qoNGjmdti7idai5SSJvcvlhWjMVuNHJFJjdx5sd73VwDUjozQo4NSLBZs8wujPWZkiLHh+JIzCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 6L36r1Y+lPXizENdy4gB+fXF0DX0/Ifwt6x0+tvY6IR/+9S6lhk1UYTVjRT6OFJdQf4sfLZrpXKXEgi5npteAg==
+length: 1547
+-->
