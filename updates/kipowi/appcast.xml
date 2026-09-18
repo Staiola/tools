@@ -4,24 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.5.1</title>
-            <pubDate>Fri, 18 Sep 2026 16:39:32 +0200</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <title>0.5.2</title>
+            <pubDate>Fri, 18 Sep 2026 21:07:05 +0200</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.5.1</h2>
+            <description><![CDATA[<h2>Kipowi 0.5.2</h2>
 <ul>
-<li>Check for Updates is now available in the Kipowi menu.</li>
-<li>Choose whether to check automatically in Settings → Updates.</li>
-<li>See what changed before choosing to download and install an update.</li>
-<li>Update downloads and the update feed are cryptographically verified.</li>
+<li>New Layout: put a picture beside others in side by side, stacked, three up, grid or feature layouts, then export it as one JPEG or PNG.</li>
+<li>Add pictures to a layout by dropping, clicking or pasting (⌘V) — copied images and copied files both work.</li>
+<li>Drag a picture to reframe it in its frame, and pinch to scale it. Double-click to reset.</li>
+<li>Brightness, contrast and Remove Background apply to the selected picture in a layout.</li>
+<li>Opening a numbered camera photo, such as IMG_0242, now offers “Only this image” instead of importing the whole folder as a sequence.</li>
 </ul>
-<p>Includes precise frame stepping, the stable frame counter, rotation and flips, and multiple selections from Kipowi 0.5.0.</p>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.1/Kipowi-0.5.1.dmg" length="69302982" type="application/octet-stream" sparkle:edSignature="oz2NMLqxO+7qoNGjmdti7idai5SSJvcvlhWjMVuNHJFJjdx5sd73VwDUjozQo4NSLBZs8wujPWZkiLHh+JIzCw=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.2/Kipowi-0.5.2.dmg" length="69622090" type="application/octet-stream" sparkle:edSignature="aAL/HOI/aUdUPstYCW/LsnpQj6K6XORjYpl6cx2XGqOb32Fw4Cm0FMgMJeJvUma7rsLHGOBeMZmWtUchSjWPAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6L36r1Y+lPXizENdy4gB+fXF0DX0/Ifwt6x0+tvY6IR/+9S6lhk1UYTVjRT6OFJdQf4sfLZrpXKXEgi5npteAg==
-length: 1547
+edSignature: ic4bL2f10AQudkP0dlDAJ6NDJeZkbLck7YI6V3EuAbCjwfJYE3UOlIXVd0xO83ehv/SurD7AgYOmu+bDhkx5AA==
+length: 1731
 -->
