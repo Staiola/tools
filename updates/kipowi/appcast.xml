@@ -4,24 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.5.2</title>
-            <pubDate>Fri, 18 Sep 2026 21:07:05 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <title>0.5.3</title>
+            <pubDate>Fri, 18 Sep 2026 23:56:10 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.5.2</h2>
+            <description><![CDATA[<h2>Kipowi 0.5.3</h2>
 <ul>
-<li>New Layout: put a picture beside others in side by side, stacked, three up, grid or feature layouts, then export it as one JPEG or PNG.</li>
-<li>Add pictures to a layout by dropping, clicking or pasting (⌘V) — copied images and copied files both work.</li>
-<li>Drag a picture to reframe it in its frame, and pinch to scale it. Double-click to reset.</li>
-<li>Brightness, contrast and Remove Background apply to the selected picture in a layout.</li>
-<li>Opening a numbered camera photo, such as IMG_0242, now offers “Only this image” instead of importing the whole folder as a sequence.</li>
+<li>Fixes a crash when scrubbing or stepping through Blackmagic RAW clips while the frame information was updating.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.2/Kipowi-0.5.2.dmg" length="69622090" type="application/octet-stream" sparkle:edSignature="aAL/HOI/aUdUPstYCW/LsnpQj6K6XORjYpl6cx2XGqOb32Fw4Cm0FMgMJeJvUma7rsLHGOBeMZmWtUchSjWPAQ=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.3/Kipowi-0.5.3.dmg" length="69620972" type="application/octet-stream" sparkle:edSignature="uKTl2ixCi23PuVt+RCR5ApCV9fZHJsiMEZ7fP5FY4zFSZ5b9UAzuvoqL9I9gtdLDcGpB95rjOsdNGYusW3gzAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ic4bL2f10AQudkP0dlDAJ6NDJeZkbLck7YI6V3EuAbCjwfJYE3UOlIXVd0xO83ehv/SurD7AgYOmu+bDhkx5AA==
-length: 1731
+edSignature: nDE1bMQ+hSupCi3bra81YIW/eTSu8BK2hqTTVZlnFM1sJeagg8H2lPTchFOzHQp7IRN1qnTzediiyziULpGXDA==
+length: 1248
 -->
