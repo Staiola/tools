@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DK Dial</title>
+        <item>
+            <title>1.3.1</title>
+            <pubDate>Fri, 18 Sep 2026 17:11:57 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>DK Dial 1.3.1</h2><p>Right-click the radio panel to check for updates or enable automatic checks. See what changed before choosing to install. Downloads and release notes are signed.</p><p>Existing users need to install this version manually once.</p>]]></description>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/dkdial-v1.3.1/DKDial-1.3.1.dmg" length="7476505" type="application/octet-stream" sparkle:edSignature="2h78piol7XbsMtl1z7IpYujnIRh3FBkY2VUXGLfoK71U+q4u7+Acgdx1JhnHJJBvA+Dj6UY77WACvqH868/SCA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: dy2Zgyaf2anu63dY9thsB67rzvNTK514dcpqZKiD3Ks33Bq7NEkSos37Sp/msOyVasnurh6+EVxLy15la+2/Bg==
+length: 1348
+-->
