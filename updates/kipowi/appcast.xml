@@ -4,20 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.5.3</title>
-            <pubDate>Fri, 18 Sep 2026 23:56:10 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <title>0.5.4</title>
+            <pubDate>Sat, 19 Sep 2026 20:53:42 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.5.3</h2>
+            <description><![CDATA[<h2>Kipowi 0.5.4</h2>
 <ul>
-<li>Fixes a crash when scrubbing or stepping through Blackmagic RAW clips while the frame information was updating.</li>
+<li>Move pictures between frames in a layout: press and hold a picture, then drag it to another frame. Dropped on another picture, the two swap.</li>
+<li>Rotate and Flip are now two buttons. Rotate turns 90° left on each click (hold ⌥ for right); Flip mirrors left to right (hold ⇧ for top to bottom).</li>
+<li>In a layout, Rotate and Flip act on the selected picture.</li>
+<li>A rotated picture now keeps its rotation when you start a layout from it.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.3/Kipowi-0.5.3.dmg" length="69620972" type="application/octet-stream" sparkle:edSignature="uKTl2ixCi23PuVt+RCR5ApCV9fZHJsiMEZ7fP5FY4zFSZ5b9UAzuvoqL9I9gtdLDcGpB95rjOsdNGYusW3gzAQ=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.5.4/Kipowi-0.5.4.dmg" length="69688393" type="application/octet-stream" sparkle:edSignature="1h/XA+23mchPIpbXZG2KmYPplYX+aKSMuMX3Q606IDe2UQBF153gdXVHYIlms1HMTHmKpbjqtcdAHH/Oc4hJDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nDE1bMQ+hSupCi3bra81YIW/eTSu8BK2hqTTVZlnFM1sJeagg8H2lPTchFOzHQp7IRN1qnTzediiyziULpGXDA==
-length: 1248
+edSignature: wQHPiSvZRczHEKEM2tGi9eiPP8AxlqOUX+mToU3MZ1qPzB5PJHP14+ndHoxmAH3dWl8psxiKB9x5+1sYBTr/CA==
+length: 1589
 -->
