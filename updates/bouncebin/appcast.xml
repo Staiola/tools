@@ -4,31 +4,33 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Tue, 22 Sep 2026 23:53:31 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.1.2</title>
+            <pubDate>Wed, 23 Sep 2026 00:42:46 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.1.1</h2>
+            <description><![CDATA[<h2>Bouncebin 1.1.2</h2>
 <ul>
-  <li><b>The 3D view is smoother.</b> It was redrawing constantly, even
-      sitting perfectly still, which showed up as stutter. It now draws only
-      when something actually moves.</li>
-  <li><b>Remove cover</b> and <b>Remove back</b> are in the 3D view, where
-      only the Change buttons were. Taking one off puts the generated card
-      back — the title in type on the front, the running order on the
-      back.</li>
-  <li>Choosing or removing a cover no longer drops you back to the LP sleeve
-      when you were looking at the CD case.</li>
-  <li>The shrink wrap sits on the case instead of hovering slightly above
-      it. It was noticeable on the CD, whose case is much deeper than a
-      sleeve.</li>
+  <li><b>It is not just for Logic.</b> Bounces are bounces, whatever made
+      them. Projects from Ableton, Reaper, FL Studio, Cubase, Pro Tools,
+      Studio One, Bitwig, Ardour and GarageBand are now recognised the way
+      Logic's always were, so bounces next to them are spotted properly and
+      <b>Open project</b> opens the right one.</li>
+  <li><b>An empty library now explains itself</b> instead of telling you
+      there is nothing in it. Three things, in the order they happen, and
+      the keys worth knowing.</li>
+  <li><b>Copy everything as it is, don't convert.</b> A new option in
+      Settings for when you would rather your library matched your renders
+      exactly. It is a lot more disk — a five-minute WAV is around 50 MB
+      against 7 as MP3 — so it stays off unless you ask.</li>
+  <li>The 3D sleeve no longer has scratches on it. The shrink wrap says it
+      better.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.1.1/Bouncebin-1.1.1.dmg" length="51220425" type="application/octet-stream" sparkle:edSignature="2KvOHIXtt4846QK02/BJkGwI4v/vf65PPQOxr6Pby52ZRtKG7ALF7WON2O7F+C56HZsq89BMnLM40FX92HRcDw=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.1.2/Bouncebin-1.1.2.dmg" length="50773144" type="application/octet-stream" sparkle:edSignature="a6D0emWp/+DkGY6ODU1hMXMNF4hQU8F+1uWbWw7yxlFZfm4wuIxVzELuGdBz1G+sXtKRH+DtlT5oojheJCQ3Aw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IdSVY1rxYWYJgOrcdlUurJsTAv3xDF4kfecP1dPMXKK4qM7nZmWSeobhXFT68CQJoLNpO3YUmlpjpOLXLE4+Ag==
-length: 1860
+edSignature: h8Tw9hcscu5ymPiJt+6IR5V664R33gNK4u8nweGa7ww6+cpRDj//yY87Wpo4g0lY81JbwClZnakcUYI+k+xCDw==
+length: 2049
 -->
