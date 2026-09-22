@@ -4,26 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Tue, 22 Sep 2026 15:05:50 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Tue, 22 Sep 2026 15:14:51 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.7</h2>
+            <description><![CDATA[<h2>Bouncebin 1.0.8</h2>
 <ul>
-  <li>Fixed: if Bouncebin was ever force-quit, the part of it that does the
-      work stayed running in the background. A later copy would find the port
-      taken, move aside, and you could end up talking to the old one &#8212;
-      which showed up as <b>Import database</b> failing for no visible
-      reason.</li>
-  <li>Bouncebin now clears up anything it left behind when it starts, and
-      shuts down properly when you quit.</li>
+  <li><b>Export database now works.</b> It was a link the window did not know
+      how to follow, so clicking it did nothing at all. You now get a save
+      panel, and the file is revealed in Finder afterwards.</li>
+  <li><b>Import database now works reliably.</b> The file chooser was being
+      opened in a way a web view can quietly ignore.</li>
+  <li>Both say what they are doing: reading, checking, saving, done, or what
+      went wrong. Neither is silent any more.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.7/Bouncebin-1.0.7.dmg" length="48104508" type="application/octet-stream" sparkle:edSignature="FLcEEzhoEGJHqO1bFAMSnW0LS/aHV94p0MQCgqk6QseCQBfBQ+YPblKdtyeEW9pFuYCSixd51IK5w/Mm2n0MDg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.8/Bouncebin-1.0.8.dmg" length="46466967" type="application/octet-stream" sparkle:edSignature="zCx/CEabudf1YYnZzF4WR6f4eHfKdAmdEQL5Kc7UXbVaLL2EmWExhH9oAKO7u9R4xX4kRka0GHKyBWGl2JD3Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: J9QSIZIubEs2h4Myz1ZcMsNr3lc/DatZXhsAkjdP647itfcd1A1x14wgaF1qS3gq3sCDqDwF9710Opepc046Ag==
-length: 1579
+edSignature: Ru266m/0qNgm+jFLlELdmgSNdG7IDD5SMH7gZnl5zU2hG/o1iB9Jjz/6cg/Jy8wqMxek3AbOiKkl6JCmo74oAA==
+length: 1618
 -->
