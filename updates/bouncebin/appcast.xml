@@ -4,26 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Tue, 22 Sep 2026 14:25:06 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Tue, 22 Sep 2026 14:40:28 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.4</h2>
+            <description><![CDATA[<h2>Bouncebin 1.0.5</h2>
 <ul>
-  <li><b>Nothing to install any more.</b> Bouncebin carries its own copy of
-      Python, so it runs on a Mac straight out of the disk image. ffmpeg is no
-      longer needed either: without it, wav and aiff bounces are converted
-      using the encoder built into macOS.</li>
-  <li>The app always runs its own server now. It used to attach to one that
-      was already running, which quietly meant showing you a different version
-      of Bouncebin than the one you installed.</li>
+  <li>Buttons that open a file chooser now work in the app. <b>Import
+      database</b> and <b>Choose cover</b> did nothing at all when clicked
+      &#8212; the window was quietly ignoring every file picker.</li>
+  <li>The same was true of anything that asks a question: naming a playlist,
+      renaming one, and the confirmations before deleting a playlist or
+      overwriting ratings. All of them work now.</li>
+  <li>Renamed to <b>Export database</b> and <b>Import database</b>.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.4/Bouncebin-1.0.4.dmg" length="45754158" type="application/octet-stream" sparkle:edSignature="JV4odkcZyJWD+34QY6CRGsLuXXT9DS5Mo3K8qZITuFbDVsKDjBeGxjLzJRxZA8JNs1umyjcqRiFI+ckW6R5yDw=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.5/Bouncebin-1.0.5.dmg" length="47664546" type="application/octet-stream" sparkle:edSignature="ki89V8Oe+px/EoTga7lFusbkr33CkTvjndTWSSa3glM5CY4lfrGYpl3XkD7vn/X/l4wFkV2ofi3dTfocctgBDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eRSUhvizp9l/8fNx8y3AK6MmsvuHTZBJ+9IerS7geo5wPRjqg9m3hd4WJGqK1zinlKKHJE7zoj4CX3Uzqwc2Bw==
-length: 1622
+edSignature: v4rOR7NaUA9WwntL3Azv7l3bIlJsQRZHFstwxFfBOmVm7CDW7ZMV5FZ8eYcWOzK01bSrGYxWXARskoeZv0z0Bg==
+length: 1629
 -->
