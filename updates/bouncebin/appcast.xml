@@ -4,24 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Tue, 22 Sep 2026 14:54:06 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Tue, 22 Sep 2026 15:05:50 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.6</h2>
+            <description><![CDATA[<h2>Bouncebin 1.0.7</h2>
 <ul>
-  <li>Scanning now shows what it is doing, in the middle of the window: which
-      stage it is at, how many files it has been through, how much has been
-      copied in. You can hide it and carry on &#8212; it keeps going.</li>
-  <li>Fixed: finishing a scan re-ran part of the app's start-up instead of
-      simply refreshing the list.</li>
+  <li>Fixed: if Bouncebin was ever force-quit, the part of it that does the
+      work stayed running in the background. A later copy would find the port
+      taken, move aside, and you could end up talking to the old one &#8212;
+      which showed up as <b>Import database</b> failing for no visible
+      reason.</li>
+  <li>Bouncebin now clears up anything it left behind when it starts, and
+      shuts down properly when you quit.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.6/Bouncebin-1.0.6.dmg" length="48178480" type="application/octet-stream" sparkle:edSignature="TwDIlBzNPEDSoEwfaiBXCPk4v3XBiAMRdIXdGKfPpGW2fb4qWOa6A3ZCE+Vgyj+/KkjFLZvFQFkEB9jlPSOVAw=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.7/Bouncebin-1.0.7.dmg" length="48104508" type="application/octet-stream" sparkle:edSignature="FLcEEzhoEGJHqO1bFAMSnW0LS/aHV94p0MQCgqk6QseCQBfBQ+YPblKdtyeEW9pFuYCSixd51IK5w/Mm2n0MDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: l2DXgPk0et99SU3Ot4Nb3LbF3eLrF8mKs1A8NOfpzoZgoU9VZ0YvPT4uhzoSVj/hdSwxiL8R1FMQ7UJTSB7JBg==
-length: 1481
+edSignature: J9QSIZIubEs2h4Myz1ZcMsNr3lc/DatZXhsAkjdP647itfcd1A1x14wgaF1qS3gq3sCDqDwF9710Opepc046Ag==
+length: 1579
 -->
