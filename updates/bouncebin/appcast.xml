@@ -4,24 +4,35 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.9</title>
-            <pubDate>Tue, 22 Sep 2026 15:32:47 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Tue, 22 Sep 2026 23:31:08 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.9</h2>
+            <description><![CDATA[<h2>Bouncebin 1.1.0</h2>
 <ul>
-  <li><b>Choose a folder</b> in Settings opens the ordinary folder chooser,
-      instead of expecting you to type a path correctly.</li>
-  <li><b>New in Bouncebin</b> in the sidebar: see only what the last scan
-      brought in, or everything from the past week. Useful straight after
-      adding a folder you had forgotten about.</li>
+  <li><b>3D</b> — a third tab beside Album and List. Your playlist becomes an
+      object you can pick up: drag to turn it over, scroll to zoom.</li>
+  <li><b>LP sleeve or CD case.</b> The sleeve is a 12-inch jacket with the
+      running order printed on the back and the playlist name down both
+      spines. The CD is a real jewel case, hinge and disc and all.</li>
+  <li><b>Choose back…</b> sits beside the cover button, so a playlist can
+      have back-cover artwork of its own. Without one, the back prints the
+      running order instead.</li>
+  <li><b>Put it on the table.</b> The camera turns to a wooden table and the
+      album drops in and lands.</li>
+  <li><b>Wrap it</b> seals it in shrink wrap, creases and all. Press again to
+      take it off.</li>
+  <li>Covers that are not square are now trimmed to fit rather than squashed,
+      everywhere they appear.</li>
 </ul>
+<p>The 3D view loads what it needs the first time you open it, so nothing
+   here slows down starting the app.</p>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.9/Bouncebin-1.0.9.dmg" length="46504200" type="application/octet-stream" sparkle:edSignature="oK1755xtycaFRFO9aWHakFXc/bxpV9yQP36mJLC4kIA7S+Ac76AW8dur+1Y4AJANtW/7ReOYc7XO7AsDaQRQCg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.1.0/Bouncebin-1.1.0.dmg" length="51414109" type="application/octet-stream" sparkle:edSignature="0xcyHsqhcwATpXpScZ6cd+aRierbZ+tIkDWSAUSg0vutfvtCS4bRk/wwhONWEUvYGDOJ1ym3tt5zgQo26jDgAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YYyJoXmK033qUzRPP9X1OXVgr1PMtwr53GKY3xrf/fgt9sX/Uz9BOw0WRjigLGlJ4PJcqJ8f6ATDAsSBZe+QBA==
-length: 1477
+edSignature: oTihXgeSx4v9/z8td2+eKS/FFUYcznQGDNEdRUQOyO/m2QbKrLP3DqLkOLQeTKTMpqQYUhMPZbJVkKPXBO4QCg==
+length: 2140
 -->
