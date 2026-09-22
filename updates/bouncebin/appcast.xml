@@ -4,26 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.8</title>
-            <pubDate>Tue, 22 Sep 2026 15:14:51 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <title>1.0.9</title>
+            <pubDate>Tue, 22 Sep 2026 15:32:47 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.8</h2>
+            <description><![CDATA[<h2>Bouncebin 1.0.9</h2>
 <ul>
-  <li><b>Export database now works.</b> It was a link the window did not know
-      how to follow, so clicking it did nothing at all. You now get a save
-      panel, and the file is revealed in Finder afterwards.</li>
-  <li><b>Import database now works reliably.</b> The file chooser was being
-      opened in a way a web view can quietly ignore.</li>
-  <li>Both say what they are doing: reading, checking, saving, done, or what
-      went wrong. Neither is silent any more.</li>
+  <li><b>Choose a folder</b> in Settings opens the ordinary folder chooser,
+      instead of expecting you to type a path correctly.</li>
+  <li><b>New in Bouncebin</b> in the sidebar: see only what the last scan
+      brought in, or everything from the past week. Useful straight after
+      adding a folder you had forgotten about.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.8/Bouncebin-1.0.8.dmg" length="46466967" type="application/octet-stream" sparkle:edSignature="zCx/CEabudf1YYnZzF4WR6f4eHfKdAmdEQL5Kc7UXbVaLL2EmWExhH9oAKO7u9R4xX4kRka0GHKyBWGl2JD3Dg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.9/Bouncebin-1.0.9.dmg" length="46504200" type="application/octet-stream" sparkle:edSignature="oK1755xtycaFRFO9aWHakFXc/bxpV9yQP36mJLC4kIA7S+Ac76AW8dur+1Y4AJANtW/7ReOYc7XO7AsDaQRQCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ru266m/0qNgm+jFLlELdmgSNdG7IDD5SMH7gZnl5zU2hG/o1iB9Jjz/6cg/Jy8wqMxek3AbOiKkl6JCmo74oAA==
-length: 1618
+edSignature: YYyJoXmK033qUzRPP9X1OXVgr1PMtwr53GKY3xrf/fgt9sX/Uz9BOw0WRjigLGlJ4PJcqJ8f6ATDAsSBZe+QBA==
+length: 1477
 -->
