@@ -4,29 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 22 Sep 2026 14:01:05 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Tue, 22 Sep 2026 14:06:42 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.2</h2>
+            <description><![CDATA[<h2>Bouncebin 1.0.3</h2>
 <ul>
-  <li>Bouncebin can now update itself. Choose <b>Bouncebin &#8594; Check for
-      Updates&#8230;</b>, or let it look on its own. This is the last version
-      you have to download by hand.</li>
-  <li>Save a copy of your ratings from <b>Settings &#8594; Your ratings</b>:
-      everything you have decided comes out as one small file you can keep or
-      carry to another Mac.</li>
-  <li>Repeat the song you are on with the <b>&#8635;</b> button, for when a
-      bounce needs a few passes before you can call it.</li>
-  <li>The detail panel follows whatever is playing, instead of staying on the
-      song you opened it from.</li>
+  <li>Fixes 1.0.2, which would not open at all: it looked for its update
+      component in the wrong place inside the app and quit immediately. If you
+      downloaded 1.0.2, replace it with this.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.2/Bouncebin-1.0.2.dmg" length="2360666" type="application/octet-stream" sparkle:edSignature="y0c0zSwCUSrEff3sZqteBCE7plkeeBbtKzUQHznkwRlqyfCybn946bfkPa9BB6WXGdfZuBNK4mwB/K80CvQLAA=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.3/Bouncebin-1.0.3.dmg" length="2360857" type="application/octet-stream" sparkle:edSignature="4zEmqjlEWJP6mwimN+2nI4FINYZj+UgHvNQmZsouVFH03K0qTHdt5Sz6bfn/iqtc0iBylzGOqNK3LK8oM5K3Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WHut/Mw8rYBAJKgI1Q/LJ6Rm/ISNhLURynBZudSGrtb5j/xChUArV+lWP/aQ8NYDbvatHZqfR5AOH7UyA/ySBQ==
-length: 1772
+edSignature: oIC0Ze9k6xUFZqr2vKSS+O3N0xq1v/TXSAEJxAymujJOxnonxmbeHGrEkRVJ58aa7Iz6hbNHrcD2GAiTrQiMAA==
+length: 1340
 -->
