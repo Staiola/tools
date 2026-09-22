@@ -4,26 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Tue, 22 Sep 2026 14:40:28 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Tue, 22 Sep 2026 14:54:06 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.0.5</h2>
+            <description><![CDATA[<h2>Bouncebin 1.0.6</h2>
 <ul>
-  <li>Buttons that open a file chooser now work in the app. <b>Import
-      database</b> and <b>Choose cover</b> did nothing at all when clicked
-      &#8212; the window was quietly ignoring every file picker.</li>
-  <li>The same was true of anything that asks a question: naming a playlist,
-      renaming one, and the confirmations before deleting a playlist or
-      overwriting ratings. All of them work now.</li>
-  <li>Renamed to <b>Export database</b> and <b>Import database</b>.</li>
+  <li>Scanning now shows what it is doing, in the middle of the window: which
+      stage it is at, how many files it has been through, how much has been
+      copied in. You can hide it and carry on &#8212; it keeps going.</li>
+  <li>Fixed: finishing a scan re-ran part of the app's start-up instead of
+      simply refreshing the list.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.5/Bouncebin-1.0.5.dmg" length="47664546" type="application/octet-stream" sparkle:edSignature="ki89V8Oe+px/EoTga7lFusbkr33CkTvjndTWSSa3glM5CY4lfrGYpl3XkD7vn/X/l4wFkV2ofi3dTfocctgBDg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.0.6/Bouncebin-1.0.6.dmg" length="48178480" type="application/octet-stream" sparkle:edSignature="TwDIlBzNPEDSoEwfaiBXCPk4v3XBiAMRdIXdGKfPpGW2fb4qWOa6A3ZCE+Vgyj+/KkjFLZvFQFkEB9jlPSOVAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: v4rOR7NaUA9WwntL3Azv7l3bIlJsQRZHFstwxFfBOmVm7CDW7ZMV5FZ8eYcWOzK01bSrGYxWXARskoeZv0z0Bg==
-length: 1629
+edSignature: l2DXgPk0et99SU3Ot4Nb3LbF3eLrF8mKs1A8NOfpzoZgoU9VZ0YvPT4uhzoSVj/hdSwxiL8R1FMQ7UJTSB7JBg==
+length: 1481
 -->
