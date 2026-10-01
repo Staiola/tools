@@ -4,26 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.6.0</title>
-            <pubDate>Thu, 01 Oct 2026 03:09:02 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <title>0.6.1</title>
+            <pubDate>Thu, 01 Oct 2026 15:36:11 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.6.0</h2>
+            <description><![CDATA[<h2>Kipowi 0.6.1</h2>
 <ul>
-<li>Bake a LUT into the export. Pick a technical LUT and a creative LUT; the export panel shows which ones are baked in.</li>
-<li>Blackmagic RAW clips offer the LUT the camera recorded with, so the clip looks the way it did on the monitor.</li>
-<li>Import whole folders of LUTs in Settings, as technical or creative. They then appear in the LUT menu.</li>
-<li>Ships with Soft Negative, our own film-style look.</li>
-<li>Export at a different speed: 0.2×, 0.5×, 2× or 3×. Works for video and for GIFs.</li>
-<li>Shrink edge trims the halo Remove Background can leave around the subject.</li>
-<li>Rotate pictures freely, or draw a line along something that should be level and let Kipowi straighten to it.</li>
+<li>Export at Quarter as well as Full and Half — for video, for pictures and for frame stacks.</li>
+<li>Write pictures and frame stacks as JPEG, alongside PNG, TIFF and TGA. A cutout is still written as PNG, since JPEG has no transparency.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.6.0/Kipowi-0.6.0.dmg" length="69278396" type="application/octet-stream" sparkle:edSignature="wM/WABYVrsSyw5cvwLb9Q+uEtlujKsV1CZUmG+gDDDVXr3cDfr0VUNOcZV4ulm9O7IMh5JPyB5p2MG4OVfRlCA=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.6.1/Kipowi-0.6.1.dmg" length="70406508" type="application/octet-stream" sparkle:edSignature="3QnYcGBvoNec/oOiC823j15EJ1GvZAmObP7I6/VimZNL8FN+0gaQKRBElhzkqRI+VS2Rg5ss+BBH1yTrqdPfCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /B+aZZig5los0H3TbrIpi3WuVzukIIb0H97Qe865W1rwZoroDhjtopepHa0LWd3JlXbh7btcxkF83vSMw+wgDg==
-length: 1839
+edSignature: MUO8HwCeOkDwkxsJglWiAGjGlOFZzuNiz53ViFbJv5i+cYsNpPvbAgO3pgh8ObEsPBUV/GHVwdXjuGLySn6vCw==
+length: 1374
 -->
