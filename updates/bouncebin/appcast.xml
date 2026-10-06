@@ -4,33 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Wed, 23 Sep 2026 00:42:46 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.1.3</title>
+            <pubDate>Tue, 06 Oct 2026 15:24:29 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.1.2</h2>
+            <description><![CDATA[<h2>Bouncebin 1.1.3</h2>
 <ul>
-  <li><b>It is not just for Logic.</b> Bounces are bounces, whatever made
-      them. Projects from Ableton, Reaper, FL Studio, Cubase, Pro Tools,
-      Studio One, Bitwig, Ardour and GarageBand are now recognised the way
-      Logic's always were, so bounces next to them are spotted properly and
-      <b>Open project</b> opens the right one.</li>
-  <li><b>An empty library now explains itself</b> instead of telling you
-      there is nothing in it. Three things, in the order they happen, and
-      the keys worth knowing.</li>
-  <li><b>Copy everything as it is, don't convert.</b> A new option in
-      Settings for when you would rather your library matched your renders
-      exactly. It is a lot more disk — a five-minute WAV is around 50 MB
-      against 7 as MP3 — so it stays off unless you ask.</li>
-  <li>The 3D sleeve no longer has scratches on it. The shrink wrap says it
-      better.</li>
+  <li><b>Settings now shows where your copies are</b>, with a button that
+      opens the folder. It sits outside the app so updating or reinstalling
+      never touches it — which is also why Finder hides it, and why there
+      was no way to find it before.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.1.2/Bouncebin-1.1.2.dmg" length="50773144" type="application/octet-stream" sparkle:edSignature="a6D0emWp/+DkGY6ODU1hMXMNF4hQU8F+1uWbWw7yxlFZfm4wuIxVzELuGdBz1G+sXtKRH+DtlT5oojheJCQ3Aw=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.1.3/Bouncebin-1.1.3.dmg" length="49810111" type="application/octet-stream" sparkle:edSignature="+V2t1C9WwW34Y7KGy0nhpXQpcL61rNEqXpyguYfEPHKW9EfCgzxNaRyP0xhvDGVWmlJqRbPi0e27o8ghsxYeCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h8Tw9hcscu5ymPiJt+6IR5V664R33gNK4u8nweGa7ww6+cpRDj//yY87Wpo4g0lY81JbwClZnakcUYI+k+xCDw==
-length: 2049
+edSignature: kYGJznztpB0A4gi2xK3VXkfcMCz+pV6ofF5PipD2OCLV0MLB1GHC1NLXszSbz/TvLpEAqQufutLMqSiPS9j0Cw==
+length: 1406
 -->
