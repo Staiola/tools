@@ -4,30 +4,37 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Bouncebin</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Tue, 13 Oct 2026 00:08:24 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Wed, 14 Oct 2026 01:55:09 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bouncebin 1.1.4</h2>
+            <description><![CDATA[<h2>Bouncebin 1.2.0</h2>
 <ul>
-  <li><b>Choosing folders is a list now</b>, not a box of paths to edit by
-      hand. Each folder shows its name and where it is, with a Remove button
-      on the row, and a folder that has gone missing says so on itself.</li>
-  <li><b>Settings says what actually happens to what it finds</b> — copied
-      into Bouncebin's own library so iCloud cannot clear it out, big
-      lossless files converted on the way in to save room, and where those
-      copies land.</li>
-  <li>A fresh install starts at <b>~/Music</b> rather than at folders that
-      only existed on one Mac. The Apple Music library and your DAW's own
-      sample storage are skipped, so a first scan finds your bounces and not
-      everything you have ever listened to.</li>
+  <li><b>Collect masters.</b> A playlist you are happy with is the start of
+      a record, not the end of one — so there is now a button in the album
+      view that goes and finds the <b>wav or aiff behind each song</b> and
+      copies it, in running order, into a folder you pick. It tells you what
+      it found and how big it is before it copies anything, and it is honest
+      about the songs where only a lossy bounce survives.</li>
+  <li><b>Shortcuts to the projects.</b> The same folder gets a
+      <b>Projects</b> folder holding a shortcut to the Logic, Ableton or
+      Reaper project behind each song, and a <b>Running order</b> file saying
+      which file each track came from. Open the folder in three months and it
+      still explains itself.</li>
+  <li>Nothing is moved and no original is touched — these are copies. A
+      bounce that lives only in iCloud is fetched, copied, and handed back to
+      iCloud exactly as it was.</li>
+  <li><b>The details panel is reachable from a playlist again.</b> The arrow
+      that opens it had been falling onto a line of its own below each row,
+      where it no longer looked like part of the song. Same panel, same
+      paths, same Show in Finder and Open project.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.1.4/Bouncebin-1.1.4.dmg" length="49793418" type="application/octet-stream" sparkle:edSignature="IbCX6iAWNSCPWQYPtRpUre3v2EuXygjoE+3PLFk4LoGoNysjXNnlxNJNaNVbUKreWgB1ZPsdH2G2L9DyduN3Aw=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/bouncebin-v1.2.0/Bouncebin-1.2.0.dmg" length="49980121" type="application/octet-stream" sparkle:edSignature="0I6dnl918QpcL4R5JVe+ewwn96sQk1POd/VfbGfDSFWWcCl3KPtwdh5zRTBxgOU90sKJNO1aktB8HMWvddQKAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VgF6lpmB/d92MksKv0io4ZXU/3PzE/hMj7Zuntzkh/IXXMMiLaaXqn6ossyWfHUbHx32cPfRL+Bg9fbhT0NHDw==
-length: 1889
+edSignature: JQc56g8x/HkJi5WLobJWEDwQndFhXxqNQxfZnvQDhV3HDWKp/wZIF6T/NwfSQZW1XKLdIkYC0Y+GuCzSU+EhBA==
+length: 2380
 -->
