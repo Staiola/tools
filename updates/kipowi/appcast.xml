@@ -4,26 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Tue, 13 Oct 2026 02:02:23 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <title>0.7.1</title>
+            <pubDate>Wed, 14 Oct 2026 20:53:20 +0200</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.7.0</h2>
+            <description><![CDATA[<h2>Kipowi 0.7.1</h2>
 <ul>
-<li>Cut a section out of a clip: mark in and out, press Cut out, and it is gone. The timeline shortens, playback skips it, and ⌘Z puts it back.</li>
-<li>Plays VP9 and AV1 video in ordinary .mp4 files — the kind YouTube downloaders write, which QuickTime refuses.</li>
-<li>Open a spritesheet and watch it play. Kipowi works out the grid, shows it over the sheet to check, and plays the frames while you pick the rate.</li>
-<li>Save writes your changes back into the picture you opened, replacing it. It asks first, and undo then save again puts it back.</li>
-<li>Export a picture at an exact size, with presets for the Mac App Store, video, cinema, social and paper. Each says whether it fits your crop or what it would trim.</li>
-<li>Hold ⇧ while dragging a crop handle to keep its shape, and 16:10 joins the aspect presets.</li>
-<li>Fixed: an M4A audio export was named .mp4 when you typed the filename yourself.</li>
+<li>Drag across the waveform to mark a part of a sound. It sets the in and out points, and with Multiple selections on it becomes one of the selections — so what you mark up on the waveform is what the timeline shows.</li>
+<li>Each mark also gets a gain region, ready to pull up or down.</li>
+<li>Removing a selection now removes its gain region too, instead of leaving a level applied to nothing.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.7.0/Kipowi-0.7.0.dmg" length="70724260" type="application/octet-stream" sparkle:edSignature="oQNi/fPfftjD1Gl1wrQHEOrLi9r0VU97ZWUtUudzsiLBckbaYYdQXaV6eC51LWhUcf+8mbW02CzbdNHxQhOUDg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.7.1/Kipowi-0.7.1.dmg" length="70724082" type="application/octet-stream" sparkle:edSignature="H4i9sf07pGBOgI/3y1/NDfsrzRms3LOUsaOMRmDsd1R4nWZnb+IiYsf3CfOnG09d3+J+pIF71s1QSru2JUDDBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8DjYG9mxPtiF9f18OQJ+hxAeqOSRxV0yMGnA0V6eA1AJmYunuARj6eOYfdEmDp4C0GbT7x8ukR6xsXBPV2BWCg==
-length: 2052
+edSignature: POkQQusfMRY2BX5F5atwK4rICAXKsTLDcF13iP5AMKZ27N+xCQiewfmmNj5ae0Y+BlPzwLVVdRFOwc/Cti6zCA==
+length: 1532
 -->
