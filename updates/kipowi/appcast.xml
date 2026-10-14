@@ -4,22 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.7.1</title>
-            <pubDate>Wed, 14 Oct 2026 20:53:20 +0200</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <title>0.7.2</title>
+            <pubDate>Wed, 14 Oct 2026 21:12:57 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.7.1</h2>
+            <description><![CDATA[<h2>Kipowi 0.7.2</h2>
 <ul>
-<li>Drag across the waveform to mark a part of a sound. It sets the in and out points, and with Multiple selections on it becomes one of the selections — so what you mark up on the waveform is what the timeline shows.</li>
-<li>Each mark also gets a gain region, ready to pull up or down.</li>
-<li>Removing a selection now removes its gain region too, instead of leaving a level applied to nothing.</li>
+<li>Marking a second part of a sound now turns Multiple selections on by itself, and keeps the first mark — so the timeline shows both without having to say so in advance.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.7.1/Kipowi-0.7.1.dmg" length="70724082" type="application/octet-stream" sparkle:edSignature="H4i9sf07pGBOgI/3y1/NDfsrzRms3LOUsaOMRmDsd1R4nWZnb+IiYsf3CfOnG09d3+J+pIF71s1QSru2JUDDBg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.7.2/Kipowi-0.7.2.dmg" length="70725663" type="application/octet-stream" sparkle:edSignature="h7NLSKjH1TsFAjTMlMI8FZWEvb50uYRukXyREEL9GZT3S1Nfy/0cez49wU9L99JGnsoZMnvY+/bXEjg35as2Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: POkQQusfMRY2BX5F5atwK4rICAXKsTLDcF13iP5AMKZ27N+xCQiewfmmNj5ae0Y+BlPzwLVVdRFOwc/Cti6zCA==
-length: 1532
+edSignature: vModl22/b5k+WqMOkAVIZ5bIR/iUapZkWZTaDZc3ENaTOVOUqr0YIfkMg/iRvNM/QDnnit8Meup6D4x/Z1RaCg==
+length: 1306
 -->
