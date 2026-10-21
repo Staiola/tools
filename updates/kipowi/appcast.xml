@@ -4,26 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.8.0</title>
-            <pubDate>Wed, 21 Oct 2026 18:54:12 +0200</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <title>0.8.1</title>
+            <pubDate>Wed, 21 Oct 2026 21:29:06 +0200</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.8.0</h2>
+            <description><![CDATA[<h2>Kipowi 0.8.1</h2>
 <ul>
-<li>A level meter on the picture, with LUFS, so you can see how loud a clip really is. Turn it off in Settings.</li>
-<li>Loudness normalize on export — brings a quiet video up to a sensible level instead of leaving it quiet.</li>
-<li>Take the sound out of a video, or drop it entirely.</li>
-<li>Zoom the waveform. It follows the timeline now, down to twenty milliseconds, and the detail is read off the file rather than stretched — so you can pick exactly the piece you want to export.</li>
-<li>A marked stretch is much easier to see: it is drawn as a frame rather than a faint wash, on the waveform and on the timeline, and it follows the system's Increase contrast setting.</li>
-<li>Marking a second part of a sound no longer switches Multiple selections on by itself. Most second marks are a change of mind, and every one of them was leaving a selection behind. Press the button when you want to collect marks; the one you have already made is kept.</li>
-<li>The Level slider says it is monitoring only, and the deck no longer shifts about when gain is applied or the window is made small.</li>
+<li>Marking a part of a sound no longer leaves a band behind each time. A level region that is still at zero is just the mark; pull it to a level and it stays, because then it changes what gets written.</li>
+<li>A selection and a level edit no longer look the same. The stretch you are working on is a full-height frame; a level region is a band whose height is the change itself — nothing at zero, a tall block at +12 dB.</li>
+<li>Undo now reaches the sound. Marking a stretch and setting a level could not be undone at all before. Levels, marks and cuts share one undo, so ⌘Z takes back whatever you did last.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.8.0/Kipowi-0.8.0.dmg" length="70920904" type="application/octet-stream" sparkle:edSignature="9oXo6z5kZgl/CuvgRDn8GJovrI0W48A0iidIbU0ZkF9CglWRqFCns3Ph9cmIW50fq9wNeCp5tn1j2hh5FqYqAA=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.8.1/Kipowi-0.8.1.dmg" length="70931839" type="application/octet-stream" sparkle:edSignature="QyQoORfQvFqKkdFw9+7VN3JGV8dtjUnIBS0GdgNWYnXWFs82Myr55tXtY6QaOGUFKPgqoLZF6oWwDGqrHLb/Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: V5LR/frZ5dlUr3vUmSzj+mIw65eQyuwpmg9YsBHnBtwDuU4BJ15laUwHLqAfupmuRvbPp8sNJ8r/rN/tBsk2BA==
-length: 2229
+edSignature: Jz6XovDCqo0MIC9WseNOhdy04vdc7ZBUt3RrJp/5ZbdXDmAZdDCjP/OSeG1xMEPpKr55Dc5za0IpIVe0ZSOSDQ==
+length: 1748
 -->
