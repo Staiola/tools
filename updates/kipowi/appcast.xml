@@ -4,22 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.8.1</title>
-            <pubDate>Wed, 21 Oct 2026 21:29:06 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <title>0.8.2</title>
+            <pubDate>Thu, 22 Oct 2026 02:14:10 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.8.1</h2>
+            <description><![CDATA[<h2>Kipowi 0.8.2</h2>
 <ul>
-<li>Marking a part of a sound no longer leaves a band behind each time. A level region that is still at zero is just the mark; pull it to a level and it stays, because then it changes what gets written.</li>
-<li>A selection and a level edit no longer look the same. The stretch you are working on is a full-height frame; a level region is a band whose height is the change itself — nothing at zero, a tall block at +12 dB.</li>
-<li>Undo now reaches the sound. Marking a stretch and setting a level could not be undone at all before. Levels, marks and cuts share one undo, so ⌘Z takes back whatever you did last.</li>
+<li>Short samples can be worked on. On a clip of well under a second, marking was refused without saying so, and once one mark was made every later drag changed the level instead of marking again.</li>
+<li>A level is taken hold of by the band that shows it, rather than anywhere inside the stretch it covers — so the rest of the waveform stays free to mark.</li>
+<li>The shortest mark, and how far the timeline zooms, now scale with the clip instead of stopping at a flat twenty milliseconds.</li>
+<li>On a clip under a second the in, out and length readouts are in milliseconds, where hundredths of a second could not tell one selection from another.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.8.1/Kipowi-0.8.1.dmg" length="70931839" type="application/octet-stream" sparkle:edSignature="QyQoORfQvFqKkdFw9+7VN3JGV8dtjUnIBS0GdgNWYnXWFs82Myr55tXtY6QaOGUFKPgqoLZF6oWwDGqrHLb/Bg=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.8.2/Kipowi-0.8.2.dmg" length="69812875" type="application/octet-stream" sparkle:edSignature="sM9d9+rLqQRiEBp6b0+7ztE51H9RDyL8xfGAnzklS5vSUjR1//InRCJXjb2Ii48vLvLAAFXscOQEJWB/igqrAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Jz6XovDCqo0MIC9WseNOhdy04vdc7ZBUt3RrJp/5ZbdXDmAZdDCjP/OSeG1xMEPpKr55Dc5za0IpIVe0ZSOSDQ==
-length: 1748
+edSignature: +1A9e0VB4934cH40rjbFqUcT442K9BVtWKh64a9Cwnajs6ECnLxZU9mU9oQ9o+WtVk8XLQw+XFNvw6xaYY8pDA==
+length: 1786
 -->
