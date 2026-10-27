@@ -4,23 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Kipowi</title>
         <item>
-            <title>0.8.2</title>
-            <pubDate>Thu, 22 Oct 2026 02:14:10 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <title>0.8.3</title>
+            <pubDate>Tue, 27 Oct 2026 18:10:44 +0100</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Kipowi 0.8.2</h2>
+            <description><![CDATA[<h2>Kipowi 0.8.3</h2>
 <ul>
-<li>Short samples can be worked on. On a clip of well under a second, marking was refused without saying so, and once one mark was made every later drag changed the level instead of marking again.</li>
-<li>A level is taken hold of by the band that shows it, rather than anywhere inside the stretch it covers — so the rest of the waveform stays free to mark.</li>
-<li>The shortest mark, and how far the timeline zooms, now scale with the clip instead of stopping at a flat twenty milliseconds.</li>
-<li>On a clip under a second the in, out and length readouts are in milliseconds, where hundredths of a second could not tell one selection from another.</li>
+<li>Choose the sample rate when exporting audio: leave it at the source's, or convert to 44.1 or 48 kHz. Converting keeps the pitch and the length — only the number of samples per second changes.</li>
+<li>Export in mono, stereo, or whatever the source is. Mono sums both sides rather than dropping one, so nothing panned hard to one side is lost.</li>
+<li>The export summary says when the rate or the channels differ from the source, the way everything else that changes the file does.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.8.2/Kipowi-0.8.2.dmg" length="69812875" type="application/octet-stream" sparkle:edSignature="sM9d9+rLqQRiEBp6b0+7ztE51H9RDyL8xfGAnzklS5vSUjR1//InRCJXjb2Ii48vLvLAAFXscOQEJWB/igqrAQ=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/kipowi-v0.8.3/Kipowi-0.8.3.dmg" length="70957268" type="application/octet-stream" sparkle:edSignature="4GEVLeoLSlLkXI8YbHM7rVXQxzU77H0WEvXqIZbWzdqO696MWsv7UkYTJ8uQrCgOGB/69UoohJrAhyavn3I5Cw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +1A9e0VB4934cH40rjbFqUcT442K9BVtWKh64a9Cwnajs6ECnLxZU9mU9oQ9o+WtVk8XLQw+XFNvw6xaYY8pDA==
-length: 1786
+edSignature: ZYtFcQmjX9B3iQuBud8wn4guN+ZuKxWZ29oghXlAzBnnUuI0snOmkcqBxTCZ25OIDRxtxVl5nOXAmIa98o2VBA==
+length: 1620
 -->
