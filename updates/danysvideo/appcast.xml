@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Danys Video</title>
         <item>
-            <title>0.4.23</title>
-            <pubDate>Mon, 09 Nov 2026 15:42:12 +0100</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.4.23</sparkle:shortVersionString>
+            <title>0.4.24</title>
+            <pubDate>Mon, 09 Nov 2026 16:03:28 +0100</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.4.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Dany's Video 0.4.23</h2>
+            <description><![CDATA[<h2>Dany's Video 0.4.24</h2>
 <ul>
-<li>The app has an icon: the TV from the Dany's Video site, in the Dock, in Applications and in the update dialog.</li>
-<li>Film details from TMDB work in the app again: where to watch a film, cast and trailers for a film Jellyfin has none for, and picking the right TMDB film by hand. In 0.4.22 these asked the app's own local server, which has no TMDB, and came back empty.</li>
+<li>Posters on the wall have worn paper again: creases, scuffs and frayed edges. The textures were missing from the app, so every poster was a clean print. Settings → Posters still switches between Worn and Clean.</li>
+<li>The crease texture is a new one, "Paper 003" from ambientCG (CC0).</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/danysvideo-v0.4.23/Danys-Video-0.4.23.zip" length="73791748" type="application/octet-stream" sparkle:edSignature="itQ91HzVUCcdU2WiFQWc3NlLU+1XrDEWGcHuwy7jNRuqLujPQn8tmtUkOF18QSt4v0/e48t4rDXhfupzpHhCCQ=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/danysvideo-v0.4.24/Danys-Video-0.4.24.zip" length="74573464" type="application/octet-stream" sparkle:edSignature="TCy8trfH7Iu2bw/aCTqwJOvdphWHyekz7Qgy83aVNeHW7+QqTn5MsOLJr/Ab0GCQXvXViUD1Oq5KvJK7HCZCDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ev79gp+JAGA7v2JPM4AXIuqH1VGUr+A0XFu3IG5TDztw6mCV7ogJphh7olLctqstKDRFb04418nX9tZSnYIjDQ==
-length: 1533
+edSignature: i3OB6Ew4QaPv4EJ9Hj+gFhzjYSzuoIQhZrASjlRZzt7NVgzYo260qJaQcog+VZliqE4sKyRQVP3DFdmoLNhxAw==
+length: 1449
 -->
