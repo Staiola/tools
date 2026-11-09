@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Danys Video</title>
+        <item>
+            <title>0.4.22</title>
+            <pubDate>Mon, 09 Nov 2026 14:35:27 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.4.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Dany's Video 0.4.22</h2>
+<ul>
+<li>The first public build. Dany's Video is a 3D VHS room for your own Jellyfin library: every film is a tape on the shelf, pull one out, put it in the VCR and it plays on the TV, from your server.</li>
+<li>Signed with a Developer ID and notarized by Apple, so it opens without a warning. Updates arrive through Dany's Video → Check for Updates…</li>
+<li>The app has its own identity now (studio.staiola.danysvideo). If you ran a private test build, sign in again: your room is restored from Jellyfin.</li>
+<li>Every model in the room is credited in the ? panel, with its licence next to the file in the app.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/danysvideo-v0.4.22/Danys-Video-0.4.22.zip" length="70696024" type="application/octet-stream" sparkle:edSignature="p6yGYA8celwukvBTVUE/WSHgeNt2bSTXukB1rqyGWI9wOgGrIMCuMzf2wHt96zHdvnHFcBfyos1xg0t9+4oUCA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: yenigX3G/K/R38OtSQGMAJcihCFgMLOgD6nnm/s3Qo1/IRQ304+Ql4HcuzLretxFEscUxfNA7SfOf6999ZVwCA==
+length: 1770
+-->
