@@ -4,21 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Danys Video</title>
         <item>
-            <title>0.4.26</title>
-            <pubDate>Thu, 12 Nov 2026 00:25:51 +0100</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.4.26</sparkle:shortVersionString>
+            <title>0.4.27</title>
+            <pubDate>Thu, 12 Nov 2026 02:17:00 +0100</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.4.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Dany's Video 0.4.26</h2>
+            <description><![CDATA[<h2>Dany's Video 0.4.27</h2>
 <ul>
-<li>Use my location works for the sky. Before, the Mac app always refused it, and only a city or typed coordinates worked. macOS asks for permission the first time; the place is rounded to about a kilometre.</li>
-<li>Open sky: while star gazing from the bed, double-click the sky. You rise a little, the room fades away and only the sky is left. Esc brings you back down.</li>
+<li>The Cover Tweaker opens again. Pressing Tweak this cover in tape settings showed a black window in the Mac app; now the Tweaker opens over the room.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Staiola/tools/releases/download/danysvideo-v0.4.26/Danys-Video-0.4.26.zip" length="74600056" type="application/octet-stream" sparkle:edSignature="FIszszBS4rhvl1z4U9+APf87soqRuKAgx5dTVI0PsfznoooD3tvKgXqg7jHAD6+Kv3TBn3dVVpwjM14AJ1bOBA=="></enclosure>
+            <enclosure url="https://github.com/Staiola/tools/releases/download/danysvideo-v0.4.27/Danys-Video-0.4.27.zip" length="74600794" type="application/octet-stream" sparkle:edSignature="7QGaILYgpOmmb0NyBDqsjXG2+bCVFPhFgVHxLG1rnR4W/Uw/mHrt+DGSlsqiz3VVdLwjDPfKE3po1RzOwbyYCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: suFheZqn/Cg0GH3BD8SCI20kUc/fsligdXjD66FPF0a4IhDFtIoXJXLkckcjJF9l0NV5lLqzRBuZqVHqxmUxDQ==
-length: 1529
+edSignature: Las9yZxWvjvwvG3g/4fYQlHL1/IZBsvaOum6UlncLEYMfqmeIA09N/ETWiR2/rtmk3ZhHi7Xb5onegxHOKtrAg==
+length: 1310
 -->
